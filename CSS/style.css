@@ -1,0 +1,36 @@
+.h1{
+  color: red;
+  text-transform: uppercase;
+
+}
+#carre{
+  list-style-type: square;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+td,th{
+  border: 2px solid royalblue;
+  text-align: center;
+  width: 200px;
+  height: 50px;
+}
+
+th{
+  background: lavender;
+}
+
+body{
+  background-image: url(../images/poisson.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.piece{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 600px;
+  height: 400px;
+
+}
